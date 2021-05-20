@@ -67,17 +67,18 @@ DevOps
 <br/>  
     
     
- <h2 align="center">Github Stats</h2>  
-<table>
-<tr>
-<td valign="top" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=hyagobsantos&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td>
-<td valign="top" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyagobsantos&hide_border=true" align="right" style="width: 100%" />
-</td>
-</tr>
-</table>  
+<h2 align="center">Github Stats</h2>  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
     
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
