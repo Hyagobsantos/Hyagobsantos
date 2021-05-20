@@ -22,8 +22,9 @@
 <h2>My Skill Set</h2>  
 <table><tr><td valign="top" width="33%">
     
-    
-    
+
+    <div align="center"></div>
+
     <h2>Frontend</h2>  
 <div align="center">  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
