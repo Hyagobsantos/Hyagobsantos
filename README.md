@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn" align="center" style="width: 100%" />
-    </div>  
+    </div>   -->
     
     
-    ### <div align="center">I'm Hyago, a developer learner since 2020 👨🏾‍💻 studying to be great in Full-Stack 🚀🚀</div>  
+  <div align="center">I'm Hyago, a developer learner since 2020 👨🏾‍💻 studying to be great in Full-Stack 🚀🚀</div>  
     
     
     - 🐍 I’m currently studying Python and C#  
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     - ⚡ Curiosity: I like Anime and manga, I love talking about things I don't know anymore it doesn't matter ⚡
     
     
-    <br/>  
+  <br/>  
     
     
     ## My Skill Set  
@@ -41,14 +41,14 @@ Here are some ideas to get you started:
     
     
     ### Frontend  
-    <div align="center">  
+   <div align="center">  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-    </div>
+   </div>
     
-    </td><td valign="top" width="33%">
+   </td><td valign="top" width="33%">
     
     
     
@@ -71,25 +71,25 @@ Here are some ideas to get you started:
     
     </td></tr></table>  
     
-    <br/>  
+   <br/>  
     
     
     ## Connect with me  
-    <div align="center">
+   <div align="center">
     <a href="https://github.com/Hyagobsantos" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <a href="https://linkedin.com/in/hyago-bezerra-374864212/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    </div>  
+   </div>  
     
     
-    <br/>  
+   <br/>  
     
     
     ## Github Stats  
-    <table><tr><td valign="top" width="50%">
+   <table><tr><td valign="top" width="50%">
 
         <img src="https://github-readme-stats.vercel.app/api?username=Hyagobsantos&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
         
@@ -100,5 +100,5 @@ Here are some ideas to get you started:
     </td></tr></table>  
     
     ----
-    <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+   <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
