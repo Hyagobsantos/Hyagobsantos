@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 <br/>  
     
     
-My Skill Set  
+<h2>My Skill Set</h2>  
 <table><tr><td valign="top" width="33%">
     
     
     
-Frontend  
+    <h2>Frontend</h2>  
 <div align="center">  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
