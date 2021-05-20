@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 <br/>  
     
     
-    ## My Skill Set  
+My Skill Set  
 <table><tr><td valign="top" width="33%">
     
     
     
-    ### Frontend  
+Frontend  
 <div align="center">  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     
     
     
-    ### Backend  
+Backend  
 <div align="center">  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     
     
     
-    ### DevOps  
+DevOps  
 <div align="center">  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <br/>  
     
     
-    ## Connect with me  
+ Connect with me  
 <div align="center">
     <a href="https://github.com/Hyagobsantos" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <br/>  
     
     
-    ## Github Stats  
+Github Stats  
 <table><tr><td valign="top" width="50%">
 
     <img src="https://github-readme-stats.vercel.app/api?username=Hyagobsantos&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
