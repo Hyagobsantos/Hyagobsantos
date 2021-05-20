@@ -23,7 +23,8 @@
 <table><tr><td valign="top" width="33%">
     
 
-    <div align="center"></div>
+<div align="center">
+</div>
 
     <h2>Frontend</h2>  
 <div align="center">  
