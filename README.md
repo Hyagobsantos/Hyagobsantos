@@ -4,7 +4,7 @@
 </div>   
     
     
-<div align="center">I'm Hyago, a developer learner since 2020 👨🏾‍💻 studying to be great in Full-Stack 🚀🚀</div>  
+<div align="center"><h2>I'm Hyago, a developer learner since 2020 👨🏾‍💻 studying to be great in Full-Stack 🚀🚀</h2></div>  
     
     
    - 🐍 I’m currently studying Python and C#  
