@@ -67,14 +67,14 @@ DevOps
 <br/>  
     
     
-Github Stats  
+ <h2 align="center">Github Stats</h2>  
 <table>
 <tr>
 <td valign="top" width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=hyagobsantos&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td>
-<td valign="top" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyagobsantos&hide_border=true&layout=compact" align="left" style="width: 112%" />
+<td valign="top" width="60%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyagobsantos&hide_border=true&layout=compact" align="right" style="width: 120%" />
 </td>
 </tr>
 </table>  
