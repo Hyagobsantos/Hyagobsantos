@@ -1,7 +1,7 @@
 
 <div align="center">
     <img src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn" align="center" style="width: 100%" />
-</div>   -->
+</div>   
     
     
 <div align="center">I'm Hyago, a developer learner since 2020 👨🏾‍💻 studying to be great in Full-Stack 🚀🚀</div>  
