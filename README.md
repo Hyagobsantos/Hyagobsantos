@@ -70,7 +70,7 @@ DevOps
 <h2 align="center">Github Stats</h2>  
 <table><tr><td valign="top" width="50%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyagobsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api?username=Hyagobsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </td><td valign="top" width="100%">
 
 <img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyagobsantos&layout=compact&langs_count=7&theme=tokyonight"/>
