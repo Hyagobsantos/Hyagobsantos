@@ -76,7 +76,7 @@ DevOps
 
 <td valign="top">
 
-<img  height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyagobsantos&layout=compact&langs_count=7&theme=tokyonight"/>
+<img  height="100%" width="200%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyagobsantos&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </td></tr></table>  
 
