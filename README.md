@@ -15,9 +15,9 @@
     
    - ⚡ Curiosity: I like Anime and manga, I love talking about things I don't know anymore it doesn't matter ⚡
     
-    
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hyagobsantos) 
 <br/>  
-    
+   
     
 <h2 align="center">My Skill Set</h2>  
 <table align="center">
