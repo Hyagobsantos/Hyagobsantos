@@ -72,8 +72,6 @@ DevOps
 </a>
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Hyagobsantos)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>  
     
     
