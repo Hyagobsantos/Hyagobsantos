@@ -16,8 +16,8 @@
    - ⚡ Curiosity: I like Anime and manga, I love talking about things I don't know anymore it doesn't matter ⚡
     
 <br/>  
-   
-    
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<br/>  
 <h2 align="center">My Skill Set</h2>  
 <table align="center">
 <tr>
