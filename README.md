@@ -92,5 +92,13 @@ DevOps
 </td></tr></table>  
 
 <br/>  
+
+![Snake animation](https://github.com/Hyagobsantos/Hyagobsantos/blob/master/.github/workflows/cobrinha.svg)
+ 
+</div>
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/Hyagobsantos/count.svg" />
+</p>
     
 
