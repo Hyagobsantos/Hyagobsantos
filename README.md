@@ -92,6 +92,8 @@ DevOps
 
 <br/>  
 
+![Snake animation](https://github.com/Hyagobsantos/Hyagobsantos/blob/master/.github/workflows/cobrinha.svg)
+
  
 </div>
 <p align="center"> 
