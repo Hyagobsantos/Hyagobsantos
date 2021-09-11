@@ -92,7 +92,7 @@ DevOps
 
 <br/>  
 
-  ![Snake animation](https://github.com/Hyagobsantos/Hyagobsantos/blob/output/github-contribution-grid-snake.svg)
+[  ![Snake animation](https://github.com/Hyagobsantos/Hyagobsantos/blob/output/github-contribution-grid-snake.svg)](url)
 
  
 </div>
