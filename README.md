@@ -92,7 +92,7 @@ DevOps
 
 <br/>  
 
- ![Snake animation](https://github.com/Hyagobsantos/Hyagobsantos/blob/main/.github/workflows/snake.svg)
+ ![Snake animation](https://github.com/Hyagobsantos/Hyagobsantos/blob/master/.github/workflows/snake.svg)
  
 </div>
 <p align="center"> 
