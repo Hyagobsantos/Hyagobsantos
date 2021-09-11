@@ -98,7 +98,7 @@ DevOps
 </div>
 <p align="center"> 
   Visitor Count<br>
-<img src="https://profile-counter.glitch.me/Hyagobsantos/count.svg" />
+<img src="https://profile-counter.glitch.me/Hyagobantos/count.svg" />
 </p>
     
 
