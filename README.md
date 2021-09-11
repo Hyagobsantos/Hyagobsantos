@@ -1,4 +1,7 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Hyagobsantos)
+ <div style="display: flex; flex-direction: row; flex-wrap: no-wrap;">
+    <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyagobsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyagobsantos&layout=compact&langs_count=16&theme=dracula"/>
+ </div>
+ 
 <div align="center">
     <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47nwzec89ludjkyhu3z47783tzv46oh4pahsnhk2t2&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>   
