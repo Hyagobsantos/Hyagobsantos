@@ -14,42 +14,24 @@
     
    - ⚡ Curiosity: I like Anime and manga, I love talking about things I don't know anymore it doesn't matter ⚡
     
-<br/>  
+ 
 <h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-<br/>  
-<h2 align="center">My Skill Set</h2>  
-<table align="center">
-<tr>
-    
-<td valign="top" width="33%">
-    
-Frontend
-<div align="center">  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+
+
+ <div align="center">
+    <h2>📑 Habilidades</h2>
+    <p align="center">
+      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+      <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+      <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+      <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+      <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+      </p>
 </div>
-    
-</td><td valign="top" width="33%">
-    
-Backend  
-<div align="center">  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-    
-</td><td valign="top" width="33%">
-    
-DevOps  
-<div align="center">  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
-    
-</td></tr></table>  
-    
-<br/>  
-<br/>  
+
     
  <h2 align="center">Connect with me</h2>  
 <div align="center">
@@ -65,18 +47,10 @@ DevOps
     
 <br/>
 
-<h2 align="center"> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<div align="center">
-<a  href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://wakatime.com/share/@Hyagobsantos/47f97504-1b16-446d-9cb9-01eb96a3214b.svg" style="zoom: 33%">
-</a>
-</div>
 
-<br>
 
 <br/>  
-    
-    
+        
 <h2 align="center">Github Stats</h2>  
 <table>
     <tr><td valign="top">
