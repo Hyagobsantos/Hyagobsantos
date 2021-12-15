@@ -4,8 +4,8 @@
 <div align="center"><h2>I'm Hyago, a developer learner since 2020 👨🏾‍💻 studying to be great in Full-Stack 🚀🚀</h2></div>  
     
     
-   - 🐍 I’m currently studying Php and JavaScript  
-   - 🌱 I’m currently learning JavaScript, HTML and CSS  
+   - 🌱 I’m currently learning Php, JavaScript, HTML and CSS 
+   - 📚 Studing every day  
    - ⚡ Curiosity: I like Anime and manga, I love talking about things I don't know anymore it doesn't matter ⚡
 
 </br>
