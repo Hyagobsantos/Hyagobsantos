@@ -1,10 +1,20 @@
+<img src = "https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width = 500px>
+
 <div align="center"><h2>I'm Hyago, a developer learner since 2020 👨🏾‍💻 studying to be great in Full-Stack 🚀🚀</h2></div>  
     
     
    - 🐍 I’m currently studying Php and JavaScript  
    - 🌱 I’m currently learning JavaScript, HTML and CSS  
    - ⚡ Curiosity: I like Anime and manga, I love talking about things I don't know anymore it doesn't matter ⚡
-<h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+</br>
+
+<div>
+    <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+    <img src = "https://media.giphy.com/media/Sp7IpE95BqzOU/giphy.gif" width = 100px>
+</div>
+
+
 
 
 <div>
