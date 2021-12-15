@@ -1,4 +1,5 @@
-<img src = "https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width = 500px>
+[<img src = "https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width = 600px>](url)
+
 
 <div align="center"><h2>I'm Hyago, a developer learner since 2020 👨🏾‍💻 studying to be great in Full-Stack 🚀🚀</h2></div>  
     
@@ -11,7 +12,7 @@
 
 <div>
     <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-    <img src = "https://media.giphy.com/media/Sp7IpE95BqzOU/giphy.gif" width = 100px>
+    <img src = "https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width = 100px>
 </div>
 
 
